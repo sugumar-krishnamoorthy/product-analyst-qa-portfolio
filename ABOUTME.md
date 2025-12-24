@@ -1,7 +1,7 @@
 # About Me
 
 **Sugumar Krishnamoorthy**  
-Quality Assurance as “Quality Insurance” — focusing on risk-based coverage that enables confident, compliant product releases.
+Quality Assurance as “Quality Insurance” -focusing on risk-based coverage that enables confident, compliant product releases.
 
 I am a product-aligned Quality Engineering professional with 14 years of experience working at the intersection of Product, Engineering, and Business teams. My focus is on ensuring that complex digital products are built with clarity, quality, and scalability from the start.
 
