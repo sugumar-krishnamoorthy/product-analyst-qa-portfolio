@@ -1,4 +1,4 @@
-# Product Analyst – Quality Assurance Portfolio
+# QA Analyst – Portfolio
 
 This repository showcases my approach to **Product Analysis and Quality Assurance**, with a focus on **requirements clarity, risk-based UAT, traceability, and release readiness** in regulated and enterprise environments.
 
